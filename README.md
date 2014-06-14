@@ -11,6 +11,9 @@ The reason to do this is that git should, if your team is sensible, will write t
 messages on the first line, and leave the details for the other lines.  You can use this in your workflow
 to generate release docs.
 
+I tried a number of tools out there that claimed to generate nice release notes.  However they didn't work.
+All that is really needed is some time spent reading git docs to process properly.
+
 Usage
 =====
 
